@@ -19,5 +19,3 @@ https://arxiv.org/pdf/2012.07725.pdf
 https://qiskit.org/documentation/stable/0.24/tutorials/machine_learning/01_qsvm_classification.ht
 ml
 https://arxiv.org/pdf/1912.09161.pdf
-Requirements: Students must have some experience in python coding and classical kernel
-methods
