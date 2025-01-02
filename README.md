@@ -16,6 +16,5 @@ other quantum ML algorithms that would be possible to use for the ghosts recogni
 For more details, see
 https://arxiv.org/pdf/1804.11326.pdf
 https://arxiv.org/pdf/2012.07725.pdf
-https://qiskit.org/documentation/stable/0.24/tutorials/machine_learning/01_qsvm_classification.ht
-ml
+https://qiskit.org/documentation/stable/0.24/tutorials/machine_learning/01_qsvm_classification.html
 https://arxiv.org/pdf/1912.09161.pdf
